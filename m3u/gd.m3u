@@ -31,3 +31,7 @@ http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
 http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 ,金鹰纪实gedocu
 http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 ,香港无线新闻
+http://www.liveviptv.xyz/tv/tvb.php
+#EXTINF:-1 ,香港无线新闻
+mitv://198.255.74.87:9906/5dc08f31000c0e8e01b84bfda44773e0.ts
