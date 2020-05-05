@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 ,香港无线新闻
+#EXTINF:-1 ,香港有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-#EXTINF:-1 ,CCTV5＋体育高清
+#EXTINF:-1 ,CCTV5＋
 http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 ,CCTV-5高清
+#EXTINF:-1 ,CCTV5
 http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 ,CCTV-1高清
+#EXTINF:-1 ,CCTV1
 http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 ,广东卫视高清
+#EXTINF:-1 ,广东卫视
 http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 ,东方卫视高清
+#EXTINF:-1 ,东方卫视
 http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 ,北京卫视高清
+#EXTINF:-1 ,北京卫视
 http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 ,浙江卫视高清
+#EXTINF:-1 ,浙江卫视
 http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 ,深圳卫视高清
+#EXTINF:-1 ,深圳卫视
 http://iptv.pdsu.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 ,湖南卫视高清
+#EXTINF:-1 ,湖南卫视
 http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 ,CCTV-9高清
+#EXTINF:-1 ,CCTV9
 http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 ,CCTV-10高清
+#EXTINF:-1 ,CCTV10
 http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 ,全纪实高清
+#EXTINF:-1 ,全纪实
 http://iptv.pdsu.edu.cn/hls/documentaryhd.m3u8
-#EXTINF:-1 ,北京纪实高清
+#EXTINF:-1 ,北京纪实
 http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 ,上海纪实高清
+#EXTINF:-1 ,上海纪实
 http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 ,金鹰纪实gedocu
+#EXTINF:-1 ,金鹰纪实
 http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 ,香港无线新闻
 http://www.liveviptv.xyz/tv/tvb.php
